@@ -3,4 +3,4 @@
 	url = ../bundle-jekyll.git
 [submodule "blog-pages"]
 	path = blog-pages
-	url = git@gitlab.com:takahiro-itou/Blog-GitHubPages.git
+	url = ../Blog-GitHubPages.git
