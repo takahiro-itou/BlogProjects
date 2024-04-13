@@ -1,0 +1,3 @@
+[submodule "bundle-jekyll"]
+	path = bundle-jekyll
+	url = ../bundle-jekyll.git
